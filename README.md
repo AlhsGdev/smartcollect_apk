@@ -2,15 +2,14 @@
 
   # 📱 Smart Collect
 
-  **Application mobile professionnelle de collecte de données terrain et synchronisation Google Drive.**
+  **Application mobile de collecte de données terrain et synchronisation Google Drive.**
 
-  [![Version](https://img.shields.io/badge/Release-v1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)
-  [![Android](https://img.shields.io/badge/Android-5.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)
-  [![Build](https://img.shields.io/badge/APK-Offusqué%20(Sécurisé)-success.svg?style=for-the-badge)](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)
+  [![Android](https://img.shields.io/badge/Android-5.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](#)
+  [![Security](https://img.shields.io/badge/Code-Offusqué-success.svg?style=for-the-badge)](#)
 
   <br /><br />
 
-  <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/download/v1.0.0/app-release.apk">
+  <a href="https://raw.githubusercontent.com/AlhsGdev/smartcollect_apk/main/app-release.apk">
     <img src="https://img.shields.io/badge/⚡_TÉLÉCHARGER_L'APPLICATION_ANDROID-2563EB?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger APK" />
   </a>
 
@@ -44,9 +43,9 @@
 
 ### 📥 Comment installer l'application ?
 
-1. Cliquez sur le bouton bleu **« TÉLÉCHARGER L'APPLICATION ANDROID »** ci-dessus (ou rendez-vous dans les [Releases](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)).
-2. Une fois le fichier `.apk` téléchargé sur votre smartphone, ouvrez-le.
-3. Si Android affiche une alerte de sécurité, choisissez **« Paramètres »** puis activez **« Autoriser cette source »** pour lancer l'installation.
+1. Cliquez sur le bouton bleu **« TÉLÉCHARGER L'APPLICATION ANDROID »** ci-dessus.
+2. Le téléchargement direct du fichier `app-release.apk` démarre sur votre appareil.
+3. Une fois le fichier téléchargé, ouvrez-le et autorisez l'installation depuis cette source si Android le demande.
 
 ---
 
