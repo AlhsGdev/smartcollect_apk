@@ -10,14 +10,14 @@
 
   <br /><br />
 
-  <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/latest/download/app-release.apk">
+  <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/download/v1.0.0/SmartCollect-release.apk">
     <img src="https://img.shields.io/badge/⚡_TÉLÉCHARGER_L'APPLICATION_ANDROID-2563EB?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger APK" />
   </a>
 
-  <br />
+  <br /><br />
 
   <p>
-    <i>Lien alternatif direct : <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/latest/download/app-release.apk">Télécharger app-release.apk</a></i>
+    📦 <i>Lien direct : <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/download/v1.0.0/SmartCollect-release.apk">SmartCollect-release.apk (60.9 Mo)</a></i>
   </p>
 
   <br />
@@ -51,8 +51,8 @@
 ### 📥 Comment installer l'application ?
 
 1. Cliquez sur le bouton bleu **« TÉLÉCHARGER L'APPLICATION ANDROID »** ci-dessus.
-2. Le téléchargement direct de la dernière version démarre immédiatement sur votre téléphone.
-3. Ouvrez le fichier `.apk` téléchargé et autorisez l'installation d'applications inconnues si demandé par Android.
+2. Le téléchargement du fichier `SmartCollect-release.apk` commence immédiatement sur votre appareil.
+3. Une fois téléchargé, ouvrez-le et autorisez l'installation depuis cette source si Android le demande.
 
 ---
 
