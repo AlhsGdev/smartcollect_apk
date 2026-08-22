@@ -2,18 +2,25 @@
 
   # 📱 Smart Collect
 
-  **Application mobile de collecte de données terrain et synchronisation Google Drive.**
+  **Application mobile professionnelle de collecte de données terrain et synchronisation Google Drive.**
 
-  [![Android](https://img.shields.io/badge/Android-5.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](#)
-  [![Security](https://img.shields.io/badge/Code-Offusqu%C3%A9-success.svg?style=for-the-badge)](#)
+  [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)
+  [![Android](https://img.shields.io/badge/Android-5.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)
+  [![Security](https://img.shields.io/badge/Code-Offusqué-success.svg?style=for-the-badge)](https://github.com/AlhsGdev/smartcollect_apk/releases/latest)
 
   <br /><br />
 
-  <a href="https://github.com/AlhsGdev/smartcollect_apk/blob/main/app-release.apk?raw=true">
-    <img src="https://img.shields.io/badge/%E2%9A%A1_T%C3%89L%C3%89CHARGER_L'APPLICATION_ANDROID-2563EB?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger APK" />
+  <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/latest/download/app-release.apk">
+    <img src="https://img.shields.io/badge/⚡_TÉLÉCHARGER_L'APPLICATION_ANDROID-2563EB?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger APK" />
   </a>
 
-  <br /><br />
+  <br />
+
+  <p>
+    <i>Lien alternatif direct : <a href="https://github.com/AlhsGdev/smartcollect_apk/releases/latest/download/app-release.apk">Télécharger app-release.apk</a></i>
+  </p>
+
+  <br />
   
   [🌐 Site Officiel](https://smartcollect.online) • [🔒 Confidentialité](https://smartcollect.online/privacy.html) • [📜 Conditions](https://smartcollect.online/terms.html)
 
@@ -44,8 +51,8 @@
 ### 📥 Comment installer l'application ?
 
 1. Cliquez sur le bouton bleu **« TÉLÉCHARGER L'APPLICATION ANDROID »** ci-dessus.
-2. Le téléchargement direct du fichier `app-release.apk` démarre sur votre appareil.
-3. Une fois le fichier téléchargé, ouvrez-le et autorisez l'installation depuis cette source si Android le demande.
+2. Le téléchargement direct de la dernière version démarre immédiatement sur votre téléphone.
+3. Ouvrez le fichier `.apk` téléchargé et autorisez l'installation d'applications inconnues si demandé par Android.
 
 ---
 
