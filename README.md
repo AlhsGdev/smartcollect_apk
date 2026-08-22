@@ -5,12 +5,12 @@
   **Application mobile de collecte de données terrain et synchronisation Google Drive.**
 
   [![Android](https://img.shields.io/badge/Android-5.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](#)
-  [![Security](https://img.shields.io/badge/Code-Offusqué-success.svg?style=for-the-badge)](#)
+  [![Security](https://img.shields.io/badge/Code-Offusqu%C3%A9-success.svg?style=for-the-badge)](#)
 
   <br /><br />
 
-  <a href="https://raw.githubusercontent.com/AlhsGdev/smartcollect_apk/main/app-release.apk">
-    <img src="https://img.shields.io/badge/⚡_TÉLÉCHARGER_L'APPLICATION_ANDROID-2563EB?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger APK" />
+  <a href="https://github.com/AlhsGdev/smartcollect_apk/blob/main/app-release.apk?raw=true">
+    <img src="https://img.shields.io/badge/%E2%9A%A1_T%C3%89L%C3%89CHARGER_L'APPLICATION_ANDROID-2563EB?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger APK" />
   </a>
 
   <br /><br />
